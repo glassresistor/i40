@@ -93,7 +93,7 @@ function adminUsers(req, res, match) {
 
 ## Installation
 
-    npm install routes
+    npm install i40
 
 ## Path Formats
 
